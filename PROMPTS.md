@@ -20,3 +20,4 @@ This file records the user prompts that shaped the project, in their original or
 16. “perfect, can you update the plan.md and comitt to git? commit message describing what was changed”
 17. “I've noticed that on the food.html page, the link of the columbian cuisine article, blends in with the background when hovered. The text link disappears. Please implement a fix.”
 18. “Thank you, I have tested it and text link is viewable. please update the plan.md, prompt.md and commit”
+19. “On the culture.html , can you add a picture to each card (music in motion, handmade meaning, room for many stories)?”

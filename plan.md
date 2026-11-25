@@ -28,7 +28,7 @@ Build a polished, responsive, accessible, multi-page website for one location fr
    - Create mobile-first wireframes for the three location pages (`index.html`, culture, and food) and the credits page.
    - Map required HTML elements to specific pages during wireframing so each page has clear content balance:
      - **Major Attractions (`index.html`):** Hero/featured image and the accessible contact/inquiry form.
-     - **Culture & Traditions:** Blockquote and an audio player featuring the bambuco excerpt “Cuando la vida se va,” credited to Alexander Cuesta-Moreno.
+     - **Culture & Traditions:** Three photo-led cards for music, handmade art, and community stories; a blockquote; and an audio player featuring the bambuco excerpt “Cuando la vida se va,” credited to Alexander Cuesta-Moreno.
      - **Food & Cuisine:** Data table (e.g., regional dishes, ingredients, or spice levels) and second featured image.
      - **Credits & References:** Detailed attribution lists organized by page.
    - Establish the site-wide header, navigation, main content area, and footer.

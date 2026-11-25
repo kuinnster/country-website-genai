@@ -1065,8 +1065,29 @@ h3 {
 
 .tradition-card {
   min-height: 12rem;
-  padding: 1.25rem;
+  overflow: hidden;
+  padding: 0 1.25rem 1.25rem;
   border-radius: 0.9rem;
+}
+
+.tradition-figure {
+  margin: 0 -1.25rem 1rem;
+}
+
+.tradition-image {
+  width: 100%;
+  height: 11rem;
+  object-fit: cover;
+}
+
+.tradition-figure figcaption {
+  padding: 0.5rem 1.25rem 0;
+  font-size: 0.65rem;
+  font-weight: 700;
+}
+
+.tradition-card-coral .tradition-figure figcaption {
+  color: var(--ink);
 }
 
 .tradition-card p {
@@ -1076,7 +1097,7 @@ h3 {
 
 .tradition-number {
   display: inline-block;
-  margin-bottom: 2rem;
+  margin-bottom: 0.65rem;
   font-size: 0.68rem;
   font-weight: 900;
 }
