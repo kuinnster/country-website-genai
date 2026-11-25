@@ -22,3 +22,5 @@ This file records the user prompts that shaped the project, in their original or
 18. “Thank you, I have tested it and text link is viewable. please update the plan.md, prompt.md and commit”
 19. “On the culture.html , can you add a picture to each card (music in motion, handmade meaning, room for many stories)?”
 20. “I noticed that the picture for the handmade meaning is not ideal, can you fix it so we can see more of the woman or find a different image all together?”
+21. “I have checked the image , it still looks awkward in mobile/tablet view, can you try a different image?”
+22. “perfect. please fix the name on the credits page where it says "IMG_0828b.jpg"”
