@@ -28,7 +28,7 @@ Build a polished, responsive, accessible, multi-page website for one location fr
    - Create mobile-first wireframes for the three location pages (`index.html`, culture, and food) and the credits page.
    - Map required HTML elements to specific pages during wireframing so each page has clear content balance:
      - **Major Attractions (`index.html`):** Hero/featured image and the accessible contact/inquiry form.
-     - **Culture & Traditions:** Blockquote (e.g., local proverb or historical quote) and audio or video element.
+     - **Culture & Traditions:** Blockquote and an audio player featuring the bambuco excerpt “Cuando la vida se va,” credited to Alexander Cuesta-Moreno.
      - **Food & Cuisine:** Data table (e.g., regional dishes, ingredients, or spice levels) and second featured image.
      - **Credits & References:** Detailed attribution lists organized by page.
    - Establish the site-wide header, navigation, main content area, and footer.
@@ -67,6 +67,7 @@ Build a polished, responsive, accessible, multi-page website for one location fr
    - Do not use copyrighted assets unless their permissions explicitly allow the intended project use; prefer Creative Commons throughout.
    - Download or generate optimized local copies of images and media in web-friendly formats with appropriate browser and codec support when permitted.
    - Record source, creator, license, usage page, and link for each asset in the credits.
+   - The culture page uses “Cuando la vida se va,” a bambuco excerpt credited to Alexander Cuesta-Moreno on Wikimedia Commons, under CC BY-SA 3.0; the site uses Wikimedia Commons’ MP3 transcode with the audio content unchanged.
    - Include the AI chat or AI resource used and its contribution to the project.
    - Credit each external text passage, image, audio/video, blockquote, and custom font separately and identify the exact page where it is used.
    - If original copy or assets are created for the project, identify them as original work and do not falsely describe them as Creative Commons or as third-party content.
