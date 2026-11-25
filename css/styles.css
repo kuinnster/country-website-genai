@@ -1080,6 +1080,11 @@ h3 {
   object-fit: cover;
 }
 
+.tradition-card-coral .tradition-image {
+  height: 16rem;
+  object-position: center 35%;
+}
+
 .tradition-figure figcaption {
   padding: 0.5rem 1.25rem 0;
   font-size: 0.65rem;

@@ -21,3 +21,4 @@ This file records the user prompts that shaped the project, in their original or
 17. “I've noticed that on the food.html page, the link of the columbian cuisine article, blends in with the background when hovered. The text link disappears. Please implement a fix.”
 18. “Thank you, I have tested it and text link is viewable. please update the plan.md, prompt.md and commit”
 19. “On the culture.html , can you add a picture to each card (music in motion, handmade meaning, room for many stories)?”
+20. “I noticed that the picture for the handmade meaning is not ideal, can you fix it so we can see more of the woman or find a different image all together?”
