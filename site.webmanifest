@@ -1,0 +1,15 @@
+{
+  "name": "Colombia, in full colour",
+  "short_name": "Colombia",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f1e7",
+  "theme_color": "#f8f1e7",
+  "icons": [
+    {
+      "src": "assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

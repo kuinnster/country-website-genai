@@ -6,7 +6,7 @@ Build a polished, responsive, accessible, multi-page website for one location fr
 
 ## Project Preferences
 
-- Location: open choice (country, city, continent, or fictional location)
+- Location: Colombia
 - Three location-page topics:
   - Major attractions (serving as `index.html`, the main entry point)
   - Culture and traditions
@@ -52,7 +52,7 @@ Build a polished, responsive, accessible, multi-page website for one location fr
      - at least two optimized images, each with explicit `width` and `height` attributes to prevent layout shifts and useful alternative text (or an empty `alt=""` attribute only when decorative);
      - one audio or video element with `controls`, `preload="metadata"`, and a caption/transcript or alternative information when applicable; set dimensions for video, but not audio unless needed for its visible player layout;
      - at least one `<blockquote>`;
-     - one semantically correct, keyboard-accessible static contact-form demo with a `<fieldset>` and `<legend>` where appropriate, associated `<label>` elements, and usable controls; clearly state that it does not submit or send data;
+     - one semantically correct, keyboard-accessible static contact-form demo with a `<fieldset>` and `<legend>` where appropriate, associated `<label>` elements, and a visibly disabled submit control; clearly state that it does not submit or send data;
      - a unique, descriptive SEO `<meta name="description">` tag on every page;
      - favicon links and favicon assets on every page using relative paths;
      - the same site navigation on every page, with working relative links to all four pages;
