@@ -87,6 +87,7 @@ Build a polished, responsive, accessible, multi-page website for one location fr
 7. **Verify accessibility and performance**
    - Check that a visible-on-focus skip-to-content link appears before navigation on every page and bypasses the header correctly.
    - Check heading structure, landmarks, labels, link purpose, keyboard navigation, and visible focus.
+   - Verify link hover and focus states preserve sufficient text/background contrast, including links on colored sections.
    - Verify image alternative text and dimensions, video dimensions where applicable, captions or transcripts where appropriate, form semantics and submission behavior, and control focus.
    - Test every internal link and confirm the navigation works on all pages.
    - Verify that images are reasonably compressed/resized and video/audio is suitable for web delivery.
@@ -122,6 +123,6 @@ Build a polished, responsive, accessible, multi-page website for one location fr
 - [ ] Grid and Flexbox are both used in CSS.
 - [ ] One custom font is included.
 - [ ] The layout is mobile-first and responsive from 320px to 1920px.
-- [ ] Skip link, keyboard navigation, focus states, labels, and semantic structure work.
+- [ ] Skip link, keyboard navigation, link hover/focus contrast, labels, and semantic structure work.
 - [ ] Media is optimized and all third-party and AI sources are credited with usage pages.
 - [ ] Project passes HTML/CSS validation and is ready for the user's GitHub publication and public-access checks.

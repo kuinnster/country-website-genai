@@ -18,3 +18,5 @@ This file records the user prompts that shaped the project, in their original or
 14. “okay lets implement the plan.md into an actual website”
 15. “For the culture page, can you add a different audio piece instead of Colombian chachalaca?”
 16. “perfect, can you update the plan.md and comitt to git? commit message describing what was changed”
+17. “I've noticed that on the food.html page, the link of the columbian cuisine article, blends in with the background when hovered. The text link disappears. Please implement a fix.”
+18. “Thank you, I have tested it and text link is viewable. please update the plan.md, prompt.md and commit”

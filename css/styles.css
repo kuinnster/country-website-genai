@@ -1272,6 +1272,10 @@ tbody tr:last-child td {
   font-weight: 800;
 }
 
+.table-note a:hover {
+  color: var(--white);
+}
+
 .food-close {
   display: grid;
   align-items: center;
